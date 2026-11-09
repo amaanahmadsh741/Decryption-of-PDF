@@ -1,5 +1,4 @@
 
-......................................................................................................................................
 # PDF Decryption Using QPDF on Windows PowerShell
 
 ## 1. Objective
@@ -119,6 +118,7 @@ The PDF files are stored in:
 Correct:
 ```powershell
 cd "C:\Path\To\Your\PDF\Folder"
+```
 
 ### 8. Decrypt the Password-Protected PDF
 
