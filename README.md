@@ -1,10 +1,12 @@
+
 # Decryption-of-PDF
 Decrypting a PDF or Removing a Password from a PDF using Windows PowerShell
 To remove a password from a PDF offline in Windows 10 using the Command Prompt (CMD), you can use open-source command-line tools like QPDF, provided you already know the password.
 
-Method 1: Using QPDF (Recommended)
+Method 1: Using QPDF
 
 1. Download QPDF: Get the Windows binaries of QPDF from GitHub or SourceForge, extract the ZIP folder, and note the path to the bin folder (which contains qpdf.exe).
+
 2. Open Command Prompt: Press Win + X and Select Windows PowerShell.
 3. Navigate to your folder: Change the directory to the folder where your PDF file is saved.
    
