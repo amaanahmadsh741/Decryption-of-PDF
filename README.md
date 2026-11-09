@@ -9,7 +9,7 @@ Install and configure QPDF on Windows 10 and use it to decrypt a password-protec
 - Operating System: Windows 10 (64-bit)
 - Shell: Windows PowerShell
 - Package Manager: Windows Package Manager (Winget)
-- PDF Utility: QPDF 12.4.2
+- PDF Utility: QPDF
 - Working Directory: "C:\Path\To\Your\PDF\Folder"
 
 ### Step-by-Step Installation Process
